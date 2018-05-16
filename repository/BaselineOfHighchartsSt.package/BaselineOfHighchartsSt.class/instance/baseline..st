@@ -6,7 +6,7 @@ baseline: spec
 	spec
 		for: #common
 		do: [ spec
-				package: 'HighchartsStCore' with: [ spec requires: #('Seaside3' 'Boardwalk') ];
+				package: 'HighchartsStCore' with: [ spec requires: #('Boardwalk') ];
 				package: 'HighchartsStLibraries' with: [ spec requires: #('HighchartsStCore') ];
 				package: 'HighstockStLibraries' with: [ spec requires: #('HighchartsStCore') ];
 				package: 'HighchartsStV6' with: [ spec requires: #('HighchartsStCore') ];
@@ -14,8 +14,8 @@ baseline: spec
 				package: 'HighstockStV6' with: [ spec requires: #('HighchartsStCore') ];
 				package: 'HighstockStV6-Tests' with: [ spec requires: #('HighstockStV6') ];
 				package: 'HighchartsStExtensions' with: [ spec requires: #('HighchartsStCore' 'RenoirSt') ];
-				package: 'HighchartsStExamples' with: [ spec requires: #('HighchartsStExtensions' 'HighchartsStV6' 'HighchartsStLibraries' 'Seaside3+JQuery') ];
-				package: 'HighstockStExamples' with: [ spec requires: #('HighchartsStExtensions' 'HighstockStV6' 'HighstockStLibraries' 'Seaside3+JQuery') ];
+				package: 'HighchartsStExamples' with: [ spec requires: #('HighchartsStExtensions' 'HighchartsStV6' 'HighchartsStLibraries') ];
+				package: 'HighstockStExamples' with: [ spec requires: #('HighchartsStExtensions' 'HighstockStV6' 'HighstockStLibraries' ) ];
 				package: 'HighchartsStTools' with: [ spec requires: #('HighchartsStCore') ];
 				package: 'HighstockStLibraries-Tests' with: [ spec requires: #('HighstockStLibraries') ].
 			spec
@@ -24,7 +24,7 @@ baseline: spec
 				group: 'Highcharts' with: #('Core' 'HighchartsStV6' 'HighchartsStLibraries');
 				group: 'Highstock' with: #('Core' 'HighstockStV6' 'HighstockStLibraries');
 				group: 'Tools' with: #('HighchartsStTools');
-				group: 'Development' with: #('ALL' 'Seaside3+JQuery+Development') ].
+				group: 'Development' with: #('ALL') ].
 	spec
 		for: #pharo
 		do: [ spec package: 'HighchartsStPharoExtensions'.
