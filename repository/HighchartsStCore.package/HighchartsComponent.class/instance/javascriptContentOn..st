@@ -1,3 +1,3 @@
 printing
 javascriptContentOn: aStream
-	aStream javascript: configurationOptions 
+	aStream javascript: configurationOptions

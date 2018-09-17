@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #HighstockStLibraries!
+SystemOrganization addCategory: #'HighstockStLibraries'!

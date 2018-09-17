@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"describeSingleSeries:" : " 09/17/2018 09:33:27",
+		"enabled:" : " 09/17/2018 09:33:27",
+		"keyboardNavigation" : " 09/17/2018 09:33:27",
+		"onTableAnchorClick:" : " 09/17/2018 09:33:27",
+		"pointDateFormat:" : " 09/17/2018 09:33:27",
+		"pointDateFormatter:" : " 09/17/2018 09:33:27",
+		"pointDescriptionFormatter:" : " 09/17/2018 09:33:27",
+		"pointDescriptionThreshold:" : " 09/17/2018 09:33:27",
+		"screenReaderSectionFormatter:" : " 09/17/2018 09:33:27",
+		"seriesDescriptionFormatter:" : " 09/17/2018 09:33:27" } }

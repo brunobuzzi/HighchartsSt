@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "<historical>",
-	"super" : "JSObject",
 	"category" : "HighchartsStCore",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
 	"name" : "HighchartsNamespace",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "JSObject",
+	"type" : "normal" }

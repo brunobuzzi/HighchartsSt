@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"changeDecimals:" : " 09/17/2018 09:33:27",
+		"dateTimeLabelFormats" : " 09/17/2018 09:33:27",
+		"distance:" : " 09/17/2018 09:33:27",
+		"followPointer:" : " 09/17/2018 09:33:27",
+		"followTouchMove:" : " 09/17/2018 09:33:27",
+		"footerFormat:" : " 09/17/2018 09:33:27",
+		"headerFormat:" : " 09/17/2018 09:33:27",
+		"hideDelay:" : " 09/17/2018 09:33:27",
+		"padding:" : " 09/17/2018 09:33:27",
+		"pointFormat:" : " 09/17/2018 09:33:27",
+		"pointFormatter:" : " 09/17/2018 09:33:27",
+		"split:" : " 09/17/2018 09:33:27",
+		"valueDecimals:" : " 09/17/2018 09:33:27",
+		"valuePrefix:" : " 09/17/2018 09:33:27",
+		"valueSuffix:" : " 09/17/2018 09:33:27",
+		"xDateFormat:" : " 09/17/2018 09:33:27" } }

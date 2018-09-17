@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "HighchartsComponent",
 	"category" : "HighchartsStV6",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "HighchartsSeriesSplineDataMarker",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "HighchartsComponent",
+	"type" : "normal" }

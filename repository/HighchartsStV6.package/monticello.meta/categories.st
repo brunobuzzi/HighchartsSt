@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #HighchartsStV6!
+SystemOrganization addCategory: #'HighchartsStV6'!

@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "MarianoMartinezPeck 12/13/2017 22:38",
-	"super" : "WADeploymentAwareFileMetadataLibrary",
 	"category" : "HighstockStLibraries",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MarianoMartinezPeck 12/13/2017 22:38",
+	"instvars" : [
+		 ],
 	"name" : "Highstock6ClassicModeMetadataLibrary",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "WADeploymentAwareFileMetadataLibrary",
+	"type" : "normal" }
